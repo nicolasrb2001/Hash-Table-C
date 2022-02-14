@@ -18,7 +18,9 @@ This was developed using [CLion](https://www.jetbrains.com/clion/). Includes a m
 
 ### Screenshots
 The program adds 2 strings to the table and prints its contents. It then tries to add a string already in the table but it is denied. It then adds more strings, expands and rehashes the current items stored and then keeps adding strings.
+
 ![](/screenshots/screenshot1.png)
 
-This time, the program removes three strings from the table, the number of items falls below the threshold and so the table shrinks
+This time, the program removes three strings from the table, the number of items falls below the threshold and so the table shrinks.
+
 ![](/screenshots/screenshot2.png)
