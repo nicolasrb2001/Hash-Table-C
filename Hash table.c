@@ -1,8 +1,6 @@
 /*
  ============================================================================
- Name        : CWK2Q3.c
- Author      : Anonymous (DO NOT CHANGE)
- Description :
+ 
  Implement your own Hash Table in C for storing and searching names, i.e. char
  arrays. In the event of collisions, you should use linear probing with an
  interval of 1. The hash function should be the sum of the ASCII values of the
