@@ -11,7 +11,7 @@ This was part of my coursework during 1st year and it helped me gain a better un
 - The hash table **shrinks** if nº items stored < (0.7/4)*size
 - Supports **adding** and **removing** string items.
 - Rehashes items in hash table when it expands or shrinks
-- The hash function is
+- The hash function is the sum of the ASCII values of the string modulo the current size of the hash table.
 
 ### Technical Information
 This was developed using [CLion](https://www.jetbrains.com/clion/). Includes a main function for testing purposes.
